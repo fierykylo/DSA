@@ -1,7 +1,3 @@
-Ahhh got it 🐉 — thanks for clarifying! Let’s fix that so your README screams **C-first** instead of C++. I’ll make it professional but still approachable:
-
----
-
 # 🚀 Data Structures & Algorithms (DSA)
 
 👋 Hi, I’m **Aarush** — a student passionate about **problem-solving, coding, and computer science fundamentals**.
@@ -59,6 +55,3 @@ If you find this repo useful or interesting, consider giving it a **star** ⭐ �
 
 🔥 *On a mission to master DSA, one problem at a time.* 🔥
 
----
-
-Want me to also create some **cool C-themed badges** (like “Written in C”, “Pointers Included ⚡”, “Segmentation Fault Survivor”) at the top? It’ll give your README some instant character.
