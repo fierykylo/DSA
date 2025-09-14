@@ -1,80 +1,64 @@
-🚀 Data Structures & Algorithms (DSA)
+Ahhh got it 🐉 — thanks for clarifying! Let’s fix that so your README screams **C-first** instead of C++. I’ll make it professional but still approachable:
 
-Welcome to my DSA Practice Repository!
-This repo is where I solve, practice, and document Data Structures and Algorithms problems in C++ (and sometimes other languages). It’s meant to track my learning journey, improve problem-solving skills, and serve as a quick reference for future me (and maybe you too 😉).
+---
 
-📂 Repository Structure
-📦 dsa-repo
- ┣ 📁 Arrays
- ┣ 📁 LinkedLists
- ┣ 📁 Stacks
- ┣ 📁 Queues
- ┣ 📁 Trees
- ┣ 📁 Graphs
- ┣ 📁 DynamicProgramming
- ┗ 📄 README.md
+# 🚀 Data Structures & Algorithms (DSA)
 
+👋 Hi, I’m **Aarush** — a student passionate about **problem-solving, coding, and computer science fundamentals**.
+This repository is my dedicated space for learning and practicing **Data Structures & Algorithms**, primarily in **C**.
+It reflects my journey toward mastering algorithms, improving coding efficiency, and preparing for **interviews & research opportunities**.
 
-Each folder contains problems and solutions related to that topic. File names are usually descriptive so you can easily guess the problem type.
+---
 
-🛠️ Languages & Tools
+## 🎯 Objectives
 
-C++ (primary)
+* Strengthen **problem-solving** and **algorithmic thinking**
+* Build a strong foundation for **coding interviews** and **competitive programming**
+* Maintain a clean, organized collection of solutions for future reference
 
-Standard Template Library (STL)
+---
 
-Occasionally: Python, Java (for experimenting)
+## 🛠️ Technologies
 
-🎯 Goals
+* **C** (primary language)
+* Occasionally experimenting with **C++**, **Python**, and **Java**
+* Git & GitHub for version control
 
-Strengthen problem-solving & coding speed
+---
 
-Master core data structures and algorithms
+## ⚡ Topics Covered
 
-Prepare for coding interviews & contests
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Trees & Graphs
+* Recursion & Backtracking
+* Sorting & Searching
+* Dynamic Programming
+* Greedy Algorithms
+* And more as I progress 🚀
 
-📌 Topics Covered
+---
 
-Arrays & Strings
+## 🤝 Contributions
 
-Linked Lists
+This repository is mainly for personal practice, but suggestions and improvements are welcome.
+If you'd like to contribute:
 
-Stacks & Queues
+1. Fork the repo
+2. Create a branch for your changes
+3. Submit a pull request
 
-Trees & Graphs
+---
 
-Hashing
+## ⭐ Support
 
-Recursion & Backtracking
+If you find this repo useful or interesting, consider giving it a **star** ⭐ — it helps with motivation and visibility!
 
-Sorting & Searching
+---
 
-Dynamic Programming
+🔥 *On a mission to master DSA, one problem at a time.* 🔥
 
-Greedy Algorithms
+---
 
-More coming soon... 🚀
-
-🤝 Contributions
-
-This repo is mainly for personal practice, but if you have suggestions or want to add new problems/solutions, feel free to:
-
-Fork the repo
-
-Create a new branch
-
-Submit a PR 🎉
-
-🧭 How to Use
-
-Browse to a topic folder (e.g., Arrays/)
-
-Open the problem file you’re interested in
-
-Read, run, or improve the solution
-
-📜 License
-
-This project is open-sourced under the MIT License.
-
-✨ Happy Coding! ✨
+Want me to also create some **cool C-themed badges** (like “Written in C”, “Pointers Included ⚡”, “Segmentation Fault Survivor”) at the top? It’ll give your README some instant character.
