@@ -8,13 +8,14 @@ Each algorithm is implemented from scratch to understand its **working principle
 ## 📚 Implemented Sorting Algorithms
 
 1. **Bubble Sort**
-2. **Insertion Sort**
-3. **Quick Sort**
-4. **Merge Sort**
-5. **Counting Sort**
-6. **Bucket / Bin Sort**
-7. **Radix Sort**
-8. **Shell Sort**
+2. **Selection Sort**
+3. **Insertion Sort**
+4. **Quick Sort**
+5. **Merge Sort**
+6. **Counting Sort**
+7. **Bucket / Bin Sort**
+8. **Radix Sort**
+9. **Shell Sort**
 
 ---
 
@@ -23,6 +24,7 @@ Each algorithm is implemented from scratch to understand its **working principle
 | Algorithm       | Best Case   | Average Case | Worst Case   | Space Complexity | Stable? |
 |-----------------|-------------|--------------|--------------|------------------|---------|
 | Bubble Sort     | O(n)        | O(n²)        | O(n²)        | O(1)             | ✅ Yes |
+| Selection Sort  | O(n²)       | O(n²)        | O(n²)        | O(1)             | ❌ No |
 | Insertion Sort  | O(n)        | O(n²)        | O(n²)        | O(1)             | ✅ Yes |
 | Quick Sort      | O(n log n)  | O(n log n)   | O(n²)        | O(log n)         | ❌ No |
 | Merge Sort      | O(n log n)  | O(n log n)   | O(n log n)   | O(n)             | ✅ Yes |
@@ -38,5 +40,4 @@ Each algorithm is implemented from scratch to understand its **working principle
 ---
 
 ## 📂 File Structure
-
 
