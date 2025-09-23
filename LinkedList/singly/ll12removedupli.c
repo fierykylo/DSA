@@ -10,19 +10,25 @@ typedef struct node
 
 node *first = NULL;
 
-int issorted(node *p)
+
+void removeduplicate(node *p)
 {
-    int x = INT_MIN;
-    while (p != NULL)
+    node *q = p->next;
+    while (q != NULL)
     {
-        if (p->data < x)
+        if (p->data == q->data)
         {
-            return 0;
+            p->next = q->next;
+            free(q);
+            q = p->next;
         }
-        x = p->data;
-        p = p->next;
+        else
+        {
+            q = q->next;
+            p = p->next;
+        }
+
     }
-    return 1;
 }
 
 void create(int A[], int n)
@@ -52,15 +58,11 @@ void display(node *p)
 }
 int main(void)
 {
-    int A[] = {10, 5, 30, 40, 50};
-    create(A, 5);
-    if (issorted(first))
-    {
-        printf("sorted");
-    }
-    else
-    {
-        printf("not sorted");
-    }
+    int A[] = {10, 10, 20, 20, 20, 30, 40, 50, 60};
+    create(A,9);
+    display(first);
+    removeduplicate(first);
+    display(first);
+    
 }
 
