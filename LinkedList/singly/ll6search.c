@@ -44,9 +44,23 @@ void linearsearch(node * p, int key)
         p = p->next;
     }
 }
+// linear search using recursion 
+node  *recursearch(node *p, int key)
+{
+    if (p == NULL)
+    {
+        return NULL;
+    }
+    if (key == p->data)
+    {
+        return p;
+    }
+    return recursearch(p->next, key);
+}
 int main(void)
 {
     int A[] = {10,20,30,40,50};
     create(A,5);
     linearsearch(first,30);
+
 }
